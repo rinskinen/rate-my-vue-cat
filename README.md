@@ -1,3 +1,10 @@
+# ABOUT
+'''
+This is my goofy project which I made when learning how to code with VueJS.
+
+Just rating catz. Nuttin else.
+'''
+
 # rate-my-catto
 
 ## Project setup
